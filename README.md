@@ -5,8 +5,10 @@
 
 ##### 使用到的技术
 - HttpClient
+  - 了解 HttpClient 基本发送请求的方式 
 - Jsoup
-
+  - 了解选择器语法
+ 
 ##### 请求步骤
 
 1. 首先使用 HttpClient 发送 GET 请求获取到页面信息
