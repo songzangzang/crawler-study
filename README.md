@@ -1,2 +1,14 @@
-# crawler-study
-crawler demo
+
+### 爬虫练习 - demo
+
+#### 练习1 ： 抓取旅游网站中的评论及相关信息
+
+##### 使用到的技术
+- HttpClient
+- Jsoup
+
+##### 请求步骤
+
+1. 首先使用 HttpClient 发送 GET 请求获取到页面信息
+2. 使用 Jsoup 进行解析
+3. 打印出需要抓取的信息
